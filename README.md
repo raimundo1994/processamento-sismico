@@ -1,6 +1,6 @@
 # Implementação em Python para Processamento de Dados Sísmicos Pre-stack
 
-Este repositório contém uma implementação em Python para o processamento de dados sísmicos pre-stack. O objetivo é fornecer um conjunto de algoritmos e exemplos de uso para auxiliar no processamento e análise de dados sísmicos utilizados na exploração de petróleo e gás.
+O objetivo é fornecer um conjunto de algoritmos e exemplos de uso para auxiliar no processamento e análise de dados sísmicos utilizados na exploração de petróleo e gás.
 
 ## Pré-requisitos
 
@@ -16,22 +16,20 @@ Antes de utilizar este repositório, certifique-se de ter as seguintes bibliotec
 
 Este repositório contém os seguintes recursos:
 
-- **Notebooks**: Notebooks Jupyter com exemplos de uso e demonstrações dos algoritmos implementados.
-- **Implementação**: Código-fonte em Python contendo as implementações dos algoritmos de processamento de dados sísmicos pre-stack.
-- **Dados de exemplo**: Dados de exemplo para uso nos notebooks e testes dos algoritmos.
-- **Documentação**: Documentação detalhada sobre os algoritmos, suas funcionalidades e instruções de uso.
+- [Synthetic-seismic-data-processing](Synthetic-seismic-data-processing.ipynb): Notebook Jupyter com exemplos de uso e demonstrações dos algoritmos implementados.
+- [functions](functions.py): Código-fonte em Python contendo as implementações dos algoritmos de processamento de dados sísmicos pre-stack.
+- [Dataset_Sintetico_02_shot0.rar](Dataset_Sintetico_02_shot0.rar): Dado de exemplo para uso no notebook no formaato .SEG-Y.
 
 ## Como Utilizar
 
 1. Certifique-se de ter todas as bibliotecas mencionadas acima instaladas em seu ambiente Python.
 
-2. Clone este repositório em sua máquina local usando o comando `git clone https://github.com/seu-usuario/repositorio-processamento-sismico.git`.
+2. Clone este repositório em sua máquina local usando o comando `git clone https://github.com/raimundo1994/processamento-sismico.git`.
 
 3. Acesse o diretório do repositório clonado.
 
 4. Utilize os notebooks Jupyter fornecidos para explorar os exemplos de uso e aplicar os algoritmos de processamento de dados sísmicos pre-stack em seus próprios dados.
 
-5. Consulte a documentação disponível para obter informações detalhadas sobre cada algoritmo, seus parâmetros e a forma correta de utilização.
 
 ## Contribuição
 
