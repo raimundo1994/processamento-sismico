@@ -11,6 +11,7 @@ Antes de utilizar este repositório, certifique-se de ter as seguintes bibliotec
 - [Matplotlib](https://matplotlib.org): Biblioteca para visualização de dados em Python.
 - [Jupyter Notebook](https://jupyter.org): Ambiente de desenvolvimento interativo para escrever e executar código Python em blocos.
 - [ObsPy](https://obspy.org): Biblioteca especializada em sismologia e processamento de dados sísmicos.
+- [Pyvista](https://pyvista.org/): Biblioteca para visualização e analise de dados 3D
 
 ## Conteúdo do Repositório
 
